@@ -15,9 +15,9 @@
 </head>
 <body>
 
-    <header style="text-align: center; padding: 20px; background-color: #f5eef8;">
+    <header style="text-align: center; padding: 20px; background-color: #FF7F7F;">
         <img src="https://toyphotographers.com/wp-content/uploads/2018/02/IMG_5328.jpg" alt="Header Logo" width="500">
-        <h1>Mystery Picnic ????</h1>
+        <h1>Mystery Picnic</h1>
     </header>
 
     <!-- Countdown clock -->
