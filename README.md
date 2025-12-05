@@ -82,12 +82,12 @@
         }
 
         function updateCountdown() {
-            const targetDate = new Date('2025-03-08T00:00:00Z');
+            const targetDate = new Date('2026-01-08T00:00:00Z');
             const now = new Date();
             const difference = targetDate - now;
 
             if (difference <= 0) {
-                document.getElementById('countdown').innerHTML = 'The time has come..Password "happy birthday!';
+                document.getElementById('countdown').innerHTML = 'The time has come..Password "Lego!';
                 document.getElementById('enter-button').style.display = 'block';
                 clearInterval(countdownInterval);
             } else {
